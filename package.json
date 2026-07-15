@@ -1,0 +1,21 @@
+{
+  "name": "cmaz501-blog",
+  "version": "1.0.0",
+  "description": "cmaz501 / TjayLeaf 的个人博客 — 代码·专利·哲学·音乐 | 开迈科技 · 金石意象",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmaz501/blog.git"
+  },
+  "keywords": ["blog", "cmaz501", "TjayLeaf", "vitepress", "开迈科技", "金石意象"],
+  "author": "cmaz501",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
