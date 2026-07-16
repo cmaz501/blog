@@ -10,27 +10,27 @@ titleTemplate: 代码·专利·哲学·音乐
   <li class="post-item">
     <span class="post-date">2026-07-15</span>
     <span class="post-cat cat-notice">公告</span>
-    <a href="/about/first-post" class="post-link">博客上线：代码·专利·哲学·音乐四维空间</a>
+    <a href="/blog/about/first-post" class="post-link">博客上线：代码·专利·哲学·音乐四维空间</a>
   </li>
   <li class="post-item">
     <span class="post-date">2026-07-14</span>
     <span class="post-cat cat-code">代码</span>
-    <a href="/code/" class="post-link">Hexo vs VitePress vs Hugo — 静态博客框架选型笔记</a>
+    <a href="/blog/code/" class="post-link">Hexo vs VitePress vs Hugo — 静态博客框架选型笔记</a>
   </li>
   <li class="post-item">
     <span class="post-date">2026-07-13</span>
     <span class="post-cat cat-patent">专利</span>
-    <a href="/patent/" class="post-link">发明专利权利要求撰写的基本逻辑</a>
+    <a href="/blog/patent/" class="post-link">发明专利权利要求撰写的基本逻辑</a>
   </li>
   <li class="post-item">
     <span class="post-date">2026-07-12</span>
     <span class="post-cat cat-philosophy">哲学</span>
-    <a href="/philosophy/" class="post-link">维特根斯坦：语言的边界就是世界的边界</a>
+    <a href="/blog/philosophy/" class="post-link">维特根斯坦：语言的边界就是世界的边界</a>
   </li>
   <li class="post-item">
     <span class="post-date">2026-07-11</span>
     <span class="post-cat cat-music">音乐</span>
-    <a href="/music/" class="post-link">Debussy Arabesque No.1 赏析</a>
+    <a href="/blog/music/" class="post-link">Debussy Arabesque No.1 赏析</a>
   </li>
 </ul>
 
