@@ -43,8 +43,8 @@ export default defineConfig({
   lang: 'zh-CN',
 
   // URL 前缀（GitHub Pages 下若用非 username.github.io 仓库需设置 base）
-  // 部署到 Vercel 不需要 base，留空即可
-  base: '/',
+  // GitHub Pages 项目站点（cmaz501.github.io/blog/）
+  base: '/blog/',
 
   // head 标签 — SEO + 品牌标识
   head: [

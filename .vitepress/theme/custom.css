@@ -1,0 +1,7 @@
+/* 全局样式覆盖 */
+:root {
+  --vp-c-bg: #fff;
+  --vp-c-text-1: #222;
+  --vp-c-text-2: #555;
+  --vp-c-text-3: #888;
+}
